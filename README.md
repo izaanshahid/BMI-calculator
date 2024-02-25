@@ -1,5 +1,6 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Documenta![Simulator Screenshot - iPhone 15 Plus - 2024-02-25 at 16 27 59](https://github.com/izaanshahid/BMI-calculator/assets/62205475/3acbd9c3-a067-4757-a69f-dc2d77e28d22)
+tion/AppBreweryBanner.png)
 
 #  BMI Calculator
 
